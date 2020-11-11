@@ -1,3 +1,3 @@
 @ECHO OFF
 
-git add . && git commit -m "Add new VCard" && git push heroku master
+git add . && git commit -m "Add new VCard" && git push
